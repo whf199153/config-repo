@@ -14,4 +14,4 @@ spring:
     show-sql: true
 server:
   port: 8083
-test: fun5
+test: fun6
