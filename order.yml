@@ -14,4 +14,4 @@ spring:
     show-sql: true
 server:
   port: 8083
-nav:test1
+nav: test1
